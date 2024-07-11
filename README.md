@@ -30,8 +30,12 @@ The project demonstrates the use of static files, partial templates, and form ha
 ## Usage
 
 1. Open the application in your web browser.
+   ![image](https://github.com/NitinMoturu72/Bandname-Generator/assets/89788724/65b63383-ab26-408f-a3ec-faa449926101)
+
 2. Click the "Generate Name" button to generate a random band name.
 3. The generated band name will be displayed on the page.
+ ![image](https://github.com/NitinMoturu72/Bandname-Generator/assets/89788724/d7be8a2a-ed8c-43db-92ed-e223dc447df5)
+  
 
 
 
