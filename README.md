@@ -22,7 +22,7 @@ The project demonstrates the use of static files, partial templates, and form ha
 
 3. Run the application:
     ```sh
-    npm index.js
+    node index.js
     ```
 
 4. Open your web browser and go to `http://localhost:3000`
